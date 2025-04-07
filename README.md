@@ -49,7 +49,6 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos que desenvolvi com
 ## 💡 Curiosidades
 
 - Sou apaixonado por **futebol** e **projetos criativos**!
-- Trago minha experiência artesanal da **costura** para o desenvolvimento de sistemas com foco em **detalhes e personalização**.
 - Sempre disposto a **aprender, colaborar e crescer** com a comunidade de tecnologia!
 
 ---
