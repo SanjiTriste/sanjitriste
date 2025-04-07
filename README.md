@@ -65,7 +65,7 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos que desenvolvi com
 ## 📚 Educação
 
 🎓 **UniCarioca**  
-*Ciência da Computação* — Conclusão prevista para 2025  
+*Ciência da Computação* — Conclusão prevista para 2027  
 📌 Trabalhos acadêmicos com foco em simulações estatísticas, lógica de programação, algoritmos e análise de dados com Python.
 
 ---
