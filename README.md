@@ -9,7 +9,6 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos que desenvolvi com
 - 🎓 Estudante de Ciência da Computação na **UniCarioca**;
 - 🖥️ Desenvolvedor com foco em **PHP, HTML, CSS, JavaScript e MySQL**;
 - 📊 Aprofundando conhecimentos em **Python** para **análise de dados e simulações estatísticas**;
-- ✂️ Experiência como costureiro freelancer, trazendo criatividade e precisão para o mundo digital;
 - 🌱 Aprendendo **Inglês** e **Espanhol** para expandir minhas oportunidades internacionais;
 - 💼 Buscando oportunidades como estagiário em **Análise de Dados** e áreas relacionadas à tecnologia.
 
