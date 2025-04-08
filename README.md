@@ -72,7 +72,7 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos que desenvolvi com
 
 ## 📫 Contato
 
-- 💌 E-mail: daniel.silvacruz1@email.com  
+- 💌 E-mail: daniel.silvacruz15@email.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/danielsilvacruz15/)  
 
 ---
